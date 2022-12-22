@@ -1,0 +1,20 @@
+{
+  "name": "index.js",
+  "version": "1.0.0",
+  "description": "desafios del curso Backend de Coderhouse",
+  "main": "index.js",
+  "scripts": {
+    "start":"index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeyciHouses1986/desafiosCoderBackend.git"
+  },
+  "author": "JeyciWebDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeyciHouses1986/desafiosCoderBackend/issues"
+  },
+  "homepage": "https://github.com/JeyciHouses1986/desafiosCoderBackend#readme"
+}
