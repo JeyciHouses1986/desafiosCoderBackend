@@ -22,7 +22,7 @@ class ProductManager {
     try {
       if (fileContent.length === 0) {
         console.log("No se encontraron productos!");
-      } else console.log(fileContent);
+      } else return fileContent;
     } catch (error) {
       console.log("No se encontraron productos!");
     }
